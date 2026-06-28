@@ -1,0 +1,36 @@
+Forensic OSINT Metadata Analyzer
+================================
+
+Requirements:
+- Python 3.9 or higher
+
+Installation
+------------
+
+1. Open Command Prompt or Terminal.
+
+2. Navigate to the project folder.
+
+3. Create a virtual environment:
+
+Windows:
+python -m venv venv
+
+Linux/macOS:
+python3 -m venv venv
+
+4. Activate the virtual environment:
+
+Windows:
+venv\Scripts\activate
+
+Linux/macOS:
+source venv/bin/activate
+
+5. Install the required dependencies:
+
+pip install -r requirements.txt
+
+6. Run the tool:
+
+python Forensic-OSINT-Metadata-Analyzer.py
